@@ -14,7 +14,7 @@ namespace PriscilaZuniga_WebCodeFirst.Models
         
         
     }
-
+    ///Cambio
     public class VerificarRango : ValidationAttribute
     {
         public override bool IsValid(object? value)
